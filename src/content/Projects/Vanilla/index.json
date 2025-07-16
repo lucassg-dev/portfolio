@@ -7,7 +7,7 @@
     "img":"/img/projects/vanilla/chaveiroGelson.webp",
     "imgAlt":"Chaveiro Gelson Page",
     "techs":["HTML", "CSS", "JavaScript", "FireBase"],
-    "repo": "https://github.com/lukesgon/chaveiro-gelson",
+    "repo": "https://github.com/lucassg-dev/chaveiro-gelson",
     "preview": "https://chaveirogelson-31d06.web.app",
     "detail": "/portfolio/0"
   },
@@ -19,7 +19,7 @@
     "img":"/img/projects/vanilla/todoList.webp",
     "imgAlt":"Preview To-do List Page",
     "techs":["HTML", "CSS", "JavaScript"],
-    "repo": "https://github.com/lukesgon/to-doList",
+    "repo": "https://github.com/lucassg-dev/todo-list",
     "preview": "https://lukesgon.github.io/to-doList/",
     "detail": "/portfolio/1"
   },
@@ -31,7 +31,7 @@
     "img":"/img/projects/vanilla/iFoodLandingPage.webp",
     "imgAlt":"Preview iFood Landing Page",
     "techs":["HTML", "CSS"],
-    "repo": "https://github.com/lukesgon/ifood-project-page",
+    "repo": "https://github.com/lucassg-dev/ifood-project-page",
     "preview": "https://lukesgon.github.io/ifood-project-page/",
     "detail": "/portfolio/2"
   }

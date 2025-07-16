@@ -7,7 +7,7 @@
     "img":"/img/projects/react/portfolioV1.webp",
     "imgAlt":"Portfolio v1 Page",
     "techs":["HTML", "CSS","JavaScript", "TypeScript", "React", "FireBase"],
-    "repo": "https://github.com/lukesgon/newportfolio",
+    "repo": "https://github.com/lucassg-dev/portfolio",
     "preview": "/",
     "detail": "/portfolio/3"
   },
@@ -19,7 +19,7 @@
     "img":"/img/projects/react/todoTracker.webp",
     "imgAlt":"Preview To-do Tracker Page",
     "techs":["HTML", "CSS", "JavaScript", "React"],
-    "repo": "https://github.com/lukesgon/todo-tracker/tree/main",
+    "repo": "https://github.com/lucassg-dev/todo-tracker",
     "preview": "https://lukesgon.github.io/todo-tracker/",
     "detail": "/portfolio/4"
   },
@@ -31,7 +31,7 @@
     "img":"/img/projects/react/oldPortfolio.webp",
     "imgAlt":"Preview Old Portfolio Page",
     "techs":["HTML", "CSS", "JavaScript", "React"],
-    "repo": "https://github.com/lukesgon/portfolio",
+    "repo": "https://github.com/lucassg-dev/old-portfolio",
     "preview": "https://lukesgon.github.io/portfolio/#/",
     "detail": "/portfolio/5"
   }

@@ -11,7 +11,7 @@ const MyStack = () => {
   const { library } = useLang();
   const [section, setSection] = useState("front");
   const [isHover, setIsHover] = useState(false);
-  const currentTime = useRef(0);
+  const currentTime = useRef<NodeJS.Timeout | number>(0);
 
   function handleSetSection(section: string) {
     setSection(section);
